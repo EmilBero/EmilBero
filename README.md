@@ -1,11 +1,9 @@
 # 🧑‍💻 Emil Bero
 
-**`Software Engineer`**
+**`About Me`**
 
 A passionate Software Developer with a strong background in full-stack development and a keen interest in Generative AI. I love turning ideas into reality through clean, efficient, and scalable code. Explore my GitHub to see some of my exciting projects.
-
-## 🧑‍💻 About Me
-
+<br>
 I am a dedicated and innovative software engineer with expertise in modern web technologies. With a proven track record of building dynamic, responsive, and user-centric applications, I thrive on solving complex problems and pushing the boundaries of what's possible.
 
 - 🌐 **Website**: [emilbero.com](https://www.emilbero.com)
@@ -69,5 +67,5 @@ I am a dedicated and innovative software engineer with expertise in modern web t
 
 #
 
-Thank you for visiting my GitHub profile! <br>
-Feel free to reach out for collaboration, job opportunities, or just to connect!
+Feel free to reach out for collaboration, job opportunities, or just to connect! <br>
+Thank you for visiting my GitHub profile!
