@@ -1,5 +1,6 @@
-## Hi there 👋
+# Emil Bero
 
+**`Softwaare Engineer`**
 <!--
 **EmilBero/EmilBero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
