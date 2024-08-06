@@ -18,6 +18,10 @@ I am a dedicated and innovative software engineer with expertise in modern web t
 
 # 💻 Technical Skills
 
+## Programming Languages
+
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
 - **Frontend**: HTML, CSS, JavaScript, React, Tailwind, Vite
 - **Backend**: Node.js, Express, GraphQL
 - **APIs**: Google Maps API, WeatherAPI, OpenAI API
