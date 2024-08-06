@@ -6,7 +6,7 @@ A passionate Software Developer with a strong background in full-stack developme
 
 ---
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 I am a dedicated and innovative software engineer with expertise in modern web technologies. With a proven track record of building dynamic, responsive, and user-centric applications, I thrive on solving complex problems and pushing the boundaries of what's possible.
 
@@ -16,17 +16,25 @@ I am a dedicated and innovative software engineer with expertise in modern web t
 
 ---
 
-# 💻 Technical Skills
+## 💻 Technical Skills
 
-## Programming Languages
+### Programming Languages
 
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />
 
-#
+### Database Technologies
+
+### Libraries & Frameworks
+
+### Package Managers & Build Tools
 
 - **Frontend**: HTML, CSS, JavaScript, React, Tailwind, Vite
 - **Backend**: Node.js, Express, GraphQL
@@ -36,6 +44,17 @@ I am a dedicated and innovative software engineer with expertise in modern web t
 - **CI/CD**: GitHub Actions
 - **Databases**: MongoDB, MySQL
 
+### IDEs
+
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
+
+
+### Version Control
+
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+                    
 ---
 
 Feel free to reach out for collaboration, job opportunities, or just to connect!
