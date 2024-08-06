@@ -77,4 +77,5 @@ I am a dedicated and innovative software engineer with expertise in modern web t
 
 #
 
-Thank you for visiting my GitHub profile! Feel free to reach out for collaboration, job opportunities, or just to connect!
+Thank you for visiting my GitHub profile! <br>
+Feel free to reach out for collaboration, job opportunities, or just to connect!
