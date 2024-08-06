@@ -12,8 +12,6 @@ I am a dedicated and innovative software engineer with expertise in modern web t
 - 🏢 **Current Role**: Freelance Software Engineer
 - 🌍 **Location**: Allentown, Pennsylvania
 
----
-
 ## 💻 Technical Skills
 
 ### Programming Languages
