@@ -62,9 +62,7 @@ I am a dedicated and innovative software engineer with expertise in modern web t
 ### Version Control
 
 <img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-<div style="background-color: white; width: 40px; height: 40px; display: inline-block;">
-  <img align="left" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="position: relative; top: 5px; left: 5px;"/>
-</div>
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 <br clear="left"/>
 
 #
