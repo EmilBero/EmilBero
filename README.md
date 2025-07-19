@@ -52,7 +52,6 @@ I am a dedicated and innovative software engineer with expertise in modern web t
 <img align="left" alt="Vite" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original-wordmark.svg" />
 <img align="left" alt="Yarn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
 <img align="left" alt="pnpm" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pnpm/pnpm-original-wordmark.svg" />
-<img align="left" alt="nvm" width="50px" src="https://raw.githubusercontent.com/nvm-sh/nvm/master/logo/nvm-logo.svg" />
 <br clear="left"/>
 
 ### IDEs
