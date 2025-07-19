@@ -33,6 +33,7 @@ I am a dedicated and innovative software engineer with expertise in modern web t
 <img align="left" alt="NumPy" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-plain-wordmark.svg" />
 <img align="left" alt="React Router" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactrouter/reactrouter-plain-wordmark.svg" />          
 <img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img align="left" alt="Angular" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img align="left" alt="Axios" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain-wordmark.svg" />          
 <img align="left" alt="TailwindCSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Express" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
